@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @leoconco
-- 👀 I’m interested in Java, Python, Rust, Scala and any framework/tool that dances with them
-- 🌱 I’m currently learning Data Engineering and High performance argorithms
-- 💞️ I’m looking to collaborate on usage examples for frameworks and libraries already stablshed
+- 👋 Hi, I’m @leoconco a.k.a. Leonardo Contreras,
+- 👀 I’m interested in Java, Python, Rust, Scala and any generic framework/tool.
+- 🌱 I’m currently learning Data Engineering and High performance argorithms.
+- 💞️ I’m looking to collaborate on usage examples for already stablished frameworks and libraries.
 - 📫 You can reach me using Github messages
 
 <!---
